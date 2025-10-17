@@ -1,1 +1,1 @@
-## this is a whatsupp messager application generationg auto suggesation using gemini api
+## this is a whatsupp messager application generationg auto suggesation using google gemini api
