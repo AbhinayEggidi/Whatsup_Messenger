@@ -1,0 +1,44 @@
+[
+    {
+        "contact": "roopesh",
+        "messages": [
+            {
+                "from": "roopesh",
+                "message": "hi"
+            },
+            {
+                "from": "me",
+                "message": "hello sir"
+            },
+            {
+                "from": "roopesh",
+                "message": "Have you completed the assignments?"
+            }
+        ]
+    },
+    {
+        "contact": "prasad",
+        "messages": [
+            {
+                "from": "prasad",
+                "message": "hi how are you"
+            },
+            {
+                "from": "me",
+                "message": "Hi! Great, and you?"
+            },
+            {
+                "from": "prasad",
+                "message": "had your lunch"
+            },
+            {
+                "from": "me",
+                "message": "Yep, just finished!"
+            },
+            {
+                "from": "me",
+                "message": "Hope yours was good!"
+            }
+        ]
+    }
+]
