@@ -1,1 +1,3 @@
 .env
+
+# create a .env file to store environment variables likw API keys, database URLs, etc.
