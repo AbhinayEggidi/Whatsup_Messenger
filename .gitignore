@@ -1,3 +1,4 @@
 .env
 
 # create a .env file to store environment variables likw API keys, database URLs, etc.
+# gitignore it to avoid committing sensitive information to version control.
